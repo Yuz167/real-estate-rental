@@ -1,6 +1,6 @@
 export default function Home() {
   return (
-    <div>
+    <div className="font-bold text-4xl">
       home
     </div>
   );

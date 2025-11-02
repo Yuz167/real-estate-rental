@@ -2,7 +2,7 @@
 
 <h1 align="center">🏠 Rentra — Your Next Home Awaits</h1>
 
-![Demo App](./assets/rentra-home-page.png)
+![Demo App](./client/assets/rentra-home-page.png)
 
 ## Expected Features:
 

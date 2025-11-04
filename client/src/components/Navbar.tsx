@@ -33,7 +33,7 @@ const Navbar = () => {
             <div className="flex items-center gap-3">
               <Image
                 src="/logo.svg"
-                alt="Rentiful Logo"
+                alt="Rentra Logo"
                 width={24}
                 height={24}
                 className="w-6 h-6"
